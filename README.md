@@ -35,8 +35,8 @@ Phase 2 includes JWT authentication. Set a long, random `JWT_SECRET` in `.env`.
 
 ### Passenger workspace
 
-![Passenger workspace](docs/passenger-workspace.svg)
+![Passenger workspace](docs/passenger-workspace.png)
 
 ### Driver workspace
 
-![Driver workspace](docs/driver-workspace.svg)
+![Driver workspace](docs/driver-workspace.png)

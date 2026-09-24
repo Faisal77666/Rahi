@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body { margin: 0; min-width: 320px; }
+
+form:has(select[name="rideType"] option[value="private"]:checked) label:has(input[name="seatsTotal"]) {
+  display: none !important;
+}
