@@ -1,4 +1,4 @@
-# Drivo API
+# Rahi API
 
 Backend for a Lahore–Pattoki intercity ride-sharing MVP.
 
